@@ -11,8 +11,8 @@ function Banner() {
                 width="100%"
             />
             <div className="absolute top-1/2 w-full text-center" >
-                <p className="text-sm sm:text-lg text-white  font-bold">Want some options</p>
-                <button className="text-red-500 px-10 py-4 
+                
+                <button className="text-white px-10 py-4 
                 shadow-md rounded-md font-bold my-3 hover:shadow-xl
                 active:scale-90 transition bg-gray-900 duration-150">
                     Explore</button>
